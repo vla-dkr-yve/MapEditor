@@ -1,0 +1,1 @@
+Hi there! This is my first more or less serious project written in c++ using SFML library. It is a Map Editor with simple functionality: LMB on a grid to place tile, RMB on a grid to delete the tile. Save button save grid into the file and load file loads it.
